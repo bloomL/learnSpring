@@ -18,6 +18,15 @@
         <fileset id="fileset5" name="Quickstart_withanno" removed="false">
           <file>file://$MODULE_DIR$/src/main/resources/basic_dl/quickstart_withanno.xml</file>
         </fileset>
+        <fileset id="fileset6" name="InsConfiguration" removed="false">
+          <file>file://$MODULE_DIR$/src/main/java/bean/instance/InsConfiguration.java</file>
+        </fileset>
+        <fileset id="fileset7" name="StaticConfiguration" removed="false">
+          <file>file://$MODULE_DIR$/src/main/java/bean/instance/StaticConfiguration.java</file>
+        </fileset>
+        <fileset id="fileset8" name="InsConfiguration (2)" removed="false">
+          <file>file://$MODULE_DIR$/src/main/java/bean/instance/InsConfiguration.java</file>
+        </fileset>
       </configuration>
     </facet>
   </component>
